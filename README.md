@@ -9,7 +9,7 @@ Simulate a corporate network using a router configured as a DHCP server to autom
 ## Topology
 
 ![dhcp_topology](topology.png)
-)
+
 
 - 1 Router
 - 4 Switches
